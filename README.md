@@ -12,7 +12,7 @@ Sales performance exhibits pronounced seasonality, with the fourth quarter—par
 * Strong customer acquisition has not translated into repeat purchasing, limiting customer lifetime value.
 * The clear Q4 peak indicates that marketing spend, inventory planning, and promotional strategies should be heavily weighted toward the holiday season to maximize returns.
 
-![Product Analysis](./e-commerce2.png)
+![Overview Analysis](./Overview.png)
 
 ### 1. Product Revenue, Net Revenue, and Profitability Analysis
 
@@ -85,7 +85,7 @@ Returns are highly concentrated in the top-selling product, which suggests targe
 
 Focusing return-reduction efforts specifically on The Original Mr. Fuzzy is likely to deliver the highest impact on profitability.
 
-![Product Analysis](./e-commerce2.png)
+![Product Analysis](./ProductRevenues.png)
 
 ### 2. Customer Behavior Analysis
 #### 2.1. Add to Cart
@@ -152,7 +152,7 @@ The difference is:
 Repeat Purchase Rate highlights a lack of SKU-level loyalty while
 Purchase Frequency quantifies how limited that loyalty is.
 
-![Product Analysis](./e-commerce2.png)
+![Customer Behavior](./CustomerBehavior.png)
 
 ### 3. Web Sessions \& Funnel Performance Interpretation
 #### 3.1. Traffic and User Growth
@@ -185,7 +185,7 @@ Mobile users exhibit a slightly higher repeat session rate, indicating stronger 
 
 Search and direct traffic are the strongest converting channels, while social traffic significantly underperforms, suggesting awareness-driven rather than purchase-driven intent from social sources.
 
-![Product Analysis](./e-commerce2.png)
+![Web Sessions Analysis](./WebsessionsAnalysis.png)
 
 ---
 ## 🛠️ Tools & Technologies
@@ -203,11 +203,11 @@ The dataset used in this project was obtained from [Maven Analytics](https://mav
 
 > *Note: The dataset is for educational purposes only.*
 
-#### 📁 VIDEO GAME SALES ACROSS THE WORLD/
+#### 📁 Maven Fuzzy Factory/
 
 ├── README.md                                     – Summary overview <br>
-├── Game_Sales_Project                            – Power BI Report <br>
-└── vgchartz-2024                                 – Sales Dataset <br>
+├── Toy_Store_Project.pbit                        – Power BI Report <br>
+└── All files on Maven Website                    – All files Used <br>
   
 
 ## 👤 Author
